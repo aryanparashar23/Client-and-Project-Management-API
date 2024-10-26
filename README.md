@@ -9,7 +9,7 @@ User-Specific Projects: Retrieve projects assigned to the logged-in user.
 ## Technologies Used
 - Django
 - Django REST Framework
-- MySQL or PostgreSQL (for database)
+- MySQL (for database)
 - Python 3.x
 - Visual Studio Code (for development)
 
